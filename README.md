@@ -46,8 +46,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## PROGRAM:
 ```python
-Developed by: Manoj Kumar S
-Reg.No: 212221230056
+Developed by: MS.Jeeva
+Reg.No: 212221230040
 
 # Libraries:
 import pandas as pd
